@@ -21,3 +21,4 @@
 <img src="illustration/finished-order.png" alt="Finished order" width="470" height="870" valign="top" />
 <figuretext>(3) Finished order</figuretext>
 </figure>
+<br />
