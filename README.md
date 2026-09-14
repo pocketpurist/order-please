@@ -7,3 +7,7 @@
 <img src="illustration/table-selector.png" alt="Table selector" width="470" height="870" valign="top" />
 <figuretext>Table selector</figuretext>
 </figure>
+<figure>
+<img src="illustration/group-selector.png" alt="Food group selector" width="470" height="870" valign="top" />
+<figuretext>Food group selector</figuretext>
+</figure>
