@@ -9,6 +9,8 @@
 </figure>
 <br />
 <br />
+<br />
+<br />
 <figure>
 <img src="illustration/group-selector.png" alt="Food group selector" width="470" height="870" valign="top" />
 <figuretext>(2) Food group selector</figuretext>
